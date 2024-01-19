@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @ZoeDoit
+# Hi, I’m @ZoeDoit
 
 <p align="left">
   <a href="http://twitter.com/ZoeDoit" target="_blank" rel="noopener noreferrer">
@@ -20,9 +20,6 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoeDoit&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ZoeDoit" />
 </p>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=ZoeDoit&theme=gruvbox)
-
 
 <!---
 ZoeDoit/ZoeDoit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
