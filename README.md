@@ -1,19 +1,21 @@
-# Hi, I’m @ZoeDoit
-
+# Hi there👋
 <p align="left">
   <a href="http://twitter.com/ZoeDoit" target="_blank" rel="noopener noreferrer">
-    <img height="20" src="https://img.shields.io/twitter/follow/ZoeDoit?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x" />
+  </a>
+  <a href="https://atcoder.jp/users/ZoeDoit" target="_blank" rel="noopener noreferrer">
+  <img height="20" src="https://img.shields.io/badge/AtCoder-EBEBEB?style=flat" />
   </a>
   <a href="http://qiita.com/zoedoit" target="_blank" rel="noopener noreferrer">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/zoedoit/posts.svg" />
-  </a>
-  <a href="http://qiita.com/zoedoit" target="_blank" rel="noopener noreferrer">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/zoedoit/contributions.svg" />
+    <img height="20" src="https://img.shields.io/badge/Qiita-%2355C500?style=flat" />
   </a>
 </p>
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nextjs,php,laravel,mysql,vscode,heroku&perline=10)](https://skillicons.dev)
+## My Skill
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,php,laravel,mysql,vscode,git,github,heroku&perline=10)](https://skillicons.dev)
+
+## Now Training
+[![My Skills](https://skillicons.dev/icons?i=cpp,ts,nextjs&perline=10)](https://skillicons.dev)
 
 ## Stats
 <p align="left"> 
